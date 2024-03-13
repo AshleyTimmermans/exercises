@@ -12,3 +12,4 @@ def digit_sum(n):
         result += last_digit(n)
         n = remove_last_digit(n)
     return result
+
