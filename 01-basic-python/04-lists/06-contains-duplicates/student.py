@@ -7,4 +7,3 @@ def contains_duplicates(xs):
 
     return False 
 
-print(contains_duplicates([1, 2, 3, 4, 4, 5, 6, 7]))

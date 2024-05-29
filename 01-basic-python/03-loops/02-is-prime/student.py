@@ -6,4 +6,3 @@ def is_prime(n):
 
     return n > 1
                     
-print(is_prime(7))

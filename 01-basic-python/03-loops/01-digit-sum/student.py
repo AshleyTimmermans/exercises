@@ -13,4 +13,3 @@ def digit_sum(n):
 
     return sum
 
-print(digit_sum(159))
