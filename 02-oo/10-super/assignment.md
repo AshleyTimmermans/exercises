@@ -1,4 +1,4 @@
-# Super
+prop# Super
 
 In the previous exercise we had `AgeRestrictedItem`s that could only be sold to `Customer`s who are at least 18 years old.
 Similarly, a `CountryRestrictedItem` could not be sold to `Customer`s residing in `Arstotzka`.
